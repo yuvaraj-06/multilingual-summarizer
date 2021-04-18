@@ -4,6 +4,7 @@
 
 [![Youtube](./snaps/Quantify.png)](https://www.youtube.com/watch?v=CH2nXmYXRI0)
 
+#### Click on the image for demo
 
 
 #### Quantify is a one-stop destination for the content creators such as bloggers, activists, reporters, youtubers and many more . As, content creators should be able to communicate with people around the globe, there's always a language barrier. We at Quantify help to translate and summarize the videos and text files to 100+ languages by leveraging bleeding edge technologies like AI and NLP.
@@ -47,12 +48,17 @@
 <img src="./snaps/About Quatify.png"  > 
 <img src="./snaps/Features.png"  > 
 <img src="./snaps/Tech Stack.png">
-<img src="./snaps/Quantify.png" width="200" height="400">
+
+
+### Services
 
 <img src="./snaps/Opera Snapshot_2021-04-18_081241_127.0.0.1.png"  >
+
 <img src="./snaps/Opera Snapshot_2021-04-18_081255_127.0.0.1.png"  > 
-<img src="./snaps/Tech Stack.png.png" >
+
 <img src="./snaps/Uploading form.png" >
+
 <img src="./snaps/Processing Input.png" >
+
 <img src="./snaps/Output.png" >
 
