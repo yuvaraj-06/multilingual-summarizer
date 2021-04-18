@@ -44,13 +44,15 @@
 <img src="flowchart.png" >
 
 ### User Dashboard and features
-<img src="./snaps/About Quatify.png" width="200" height="400"> <img src="./snaps/Features.png" width="200" height="400"> <img src="./snaps/Tech Stack.png
-.png" width="200" height="400"> <img src="./snaps/Quantify.png" width="200" height="400">
+<img src="./snaps/About Quatify.png"  > 
+<img src="./snaps/Features.png"  > 
+<img src="./snaps/Tech Stack.png">
+<img src="./snaps/Quantify.png" width="200" height="400">
 
 <img src="./snaps/Opera Snapshot_2021-04-18_081241_127.0.0.1.png"  >
 <img src="./snaps/Opera Snapshot_2021-04-18_081255_127.0.0.1.png"  > 
 <img src="./snaps/Tech Stack.png.png" >
-<img src="Uploading form.png" >
-<img src="Processing Input.png" >
-<img src="Output.png" >
+<img src="./snaps/Uploading form.png" >
+<img src="./snaps/Processing Input.png" >
+<img src="./snaps/Output.png" >
 
