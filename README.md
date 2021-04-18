@@ -1,8 +1,5 @@
 # -inculde.io
 
-
-
-
 # Project Demo
 
 [![Youtube]()](https://www.youtube.com/watch?v=CH2nXmYXRI0)
@@ -18,7 +15,16 @@
 #### - Accelerate content reach to 8 billion people with just 1-click.
 #### - Save more than 50,000 INR
 
+# Tech stack and Modules used:
 
+        Backend: Django
+        
+        Architecture: MVT
+        
+        Web Page Page : HTML, CSS, Javascript
+        
+        others : Tensorflow,TF-IDF,Wiki,Fuzzy Match
+        
 # Instructions to run application:
 
 
@@ -35,7 +41,7 @@
       6. You Can See The Website Live in  http://127.0.0.1:8000/
       
  ## Flowchart
-<img src="flowchart.png" width="200" height="400">
+<img src="flowchart.png" >
 
 ### User Dashboard and features
 <img src="./Screenshots/cust.png" width="200" height="400"> <img src="./Screenshots/booking.png" width="200" height="400"> <img src="./Screenshots/wheelchair.png" width="200" height="400"> <img src="./Screenshots/payment.png" width="200" height="400">
