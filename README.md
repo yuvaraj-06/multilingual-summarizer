@@ -2,7 +2,7 @@
 
 # Project Demo
 
-[![Youtube]()](https://www.youtube.com/watch?v=CH2nXmYXRI0)
+[![Youtube](./snaps/Quantify.png)](https://www.youtube.com/watch?v=CH2nXmYXRI0)
 
 
 
@@ -44,5 +44,13 @@
 <img src="flowchart.png" >
 
 ### User Dashboard and features
-<img src="./Screenshots/cust.png" width="200" height="400"> <img src="./Screenshots/booking.png" width="200" height="400"> <img src="./Screenshots/wheelchair.png" width="200" height="400"> <img src="./Screenshots/payment.png" width="200" height="400">
+<img src="./snaps/About Quatify.png" width="200" height="400"> <img src="./snaps/Features.png" width="200" height="400"> <img src="./snaps/Tech Stack.png
+.png" width="200" height="400"> <img src="./snaps/Quantify.png" width="200" height="400">
+
+<img src="./snaps/Opera Snapshot_2021-04-18_081241_127.0.0.1.png"  >
+<img src="./snaps/Opera Snapshot_2021-04-18_081255_127.0.0.1.png"  > 
+<img src="./snaps/Tech Stack.png.png" >
+<img src="Uploading form.png" >
+<img src="Processing Input.png" >
+<img src="Output.png" >
 
